@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918663335535",
+    "project_id": "image-recognition-726f5",
+    "storage_bucket": "image-recognition-726f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918663335535:android:81e57443397881f8b1479a",
+        "android_client_info": {
+          "package_name": "com.example.imagetextrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918663335535-s3p13sa35m9co9lpfjedqmdd6j1ef57n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfhtsz97RIEm54afCdxrmRMgbD4QMA6Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918663335535-s3p13sa35m9co9lpfjedqmdd6j1ef57n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
